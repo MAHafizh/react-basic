@@ -1,4 +1,4 @@
-Explaination: https://www.notion.so/React-Basic-2d2cfbe5ffc080278c5ee47cb9eca1b1?source=copy_link
+Explanation: https://www.notion.so/React-Basic-2d2cfbe5ffc080278c5ee47cb9eca1b1?source=copy_link
 
 # React + Vite
 
