@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro 14",
+    "price": 18500000
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "price": 250000
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "price": 950000
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "price": 450000
+  },
+  {
+    "id": 5,
+    "name": "27 Inch Monitor",
+    "price": 3200000
+  },
+  {
+    "id": 6,
+    "name": "External SSD 1TB",
+    "price": 2100000
+  },
+  {
+    "id": 7,
+    "name": "Noise Cancelling Headphones",
+    "price": 2750000
+  },
+  {
+    "id": 8,
+    "name": "Webcam Full HD",
+    "price": 850000
+  },
+  {
+    "id": 9,
+    "name": "Smartphone Stand",
+    "price": 150000
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth Speaker",
+    "price": 1200000
+  }
+]
